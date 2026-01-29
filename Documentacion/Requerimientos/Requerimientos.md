@@ -38,6 +38,7 @@ Sistema de obtención y fusión de piezas como mecánica de mejora continua.
 - Tabla comparativa de los videojuegos analizados.
 - Identificación de fortalezas y debilidades detectadas.
 - Decisiones de diseño tomadas a partir del análisis comparativo.
-Documentacion/Requerimientos/
+  
+Documentacion/Requerimientos/benchmarking_tabla.png
 
 
