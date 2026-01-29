@@ -16,6 +16,10 @@ Administración de una moneda virtual para mejoras de equipamiento.
 - Diagrama jerárquico de descomposición funcional.
 - Lista de módulos y subfunciones identificadas.
 - Requerimientos funcionales derivados de cada módulo.
+  
+Documentacion/Requerimientos/descomposicion_funcional.png
+
+
 
 
 #### 2. Benchmarking
@@ -34,6 +38,6 @@ Sistema de obtención y fusión de piezas como mecánica de mejora continua.
 - Tabla comparativa de los videojuegos analizados.
 - Identificación de fortalezas y debilidades detectadas.
 - Decisiones de diseño tomadas a partir del análisis comparativo.
-
+Documentacion/Requerimientos/
 
 
